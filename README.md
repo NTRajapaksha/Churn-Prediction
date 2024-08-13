@@ -1,4 +1,4 @@
-#Predicting Customer Churn
+## Predicting Customer Churn
 
 This project focuses on predicting customer churn using a combination of machine learning algorithms: XGBoost Classifier, Random Forest Classifier, and Logistic Regression. 
 
